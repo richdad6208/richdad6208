@@ -1,9 +1,9 @@
 # :wave: HEY there! I'm jaesung 
 
 ## About Me
-I live in Busan, Korea  
-I am a student learning full stack  
-i like to make things
+🏠 I live in Busan, Korea  
+🧑‍🎓 I am a student learning full stack  
+😄 I like to make things
 
 ## Tech Stack
 ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
