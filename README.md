@@ -7,7 +7,7 @@
 
 
 ## 🥇 training course
-📘 I'm taking the full stack course at Ellis Bootcamp (엘리스SW트랙 6기)
+📘 I'm taking the full stack course at elice Bootcamp (엘리스SW트랙 6기)
 
 ## Tech Stack
 ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
