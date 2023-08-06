@@ -6,10 +6,10 @@
 😄 I like to make things
 
 
-## 🥇 training course
+## 🥇 Training course
 📘 I'm taking the full stack course at elice Bootcamp (엘리스SW트랙 6기)
 
-## portfolio
+## 📰 Portfolio
 🖌️ <a href="https://www.richdad6208.store/portfolio2" target="_blank">한국아동발달연구소 clone coding, about 30pages</a>
 
 ## Tech Stack
