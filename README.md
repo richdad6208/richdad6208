@@ -1,6 +1,6 @@
 # :wave: HEY there! I'm jaesung 
 
-## About Me
+## 🚌 About Me
 🏠 I live in Busan, Korea  
 🏫 I am a student learning full stack  
 😄 I like to make things
