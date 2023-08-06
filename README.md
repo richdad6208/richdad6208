@@ -11,7 +11,7 @@ i like to make things
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![mongo](https://img.shields.io/badge/mongo-green?style=for-the-badge&logo=mongo&logoColor=green)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 ## Connect with Me
 ![Gmail](https://img.shields.io/badge/Gmail%3A%20richdad6208%40gmail.com-red?style=for-the-badge)
