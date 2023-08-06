@@ -9,6 +9,9 @@
 ## 🥇 training course
 📘 I'm taking the full stack course at elice Bootcamp (엘리스SW트랙 6기)
 
+## portfolio
+🖌️ [clone coding, about 30pages](https://www.richdad6208.store)
+
 ## Tech Stack
 ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
