@@ -10,7 +10,7 @@
 📘 I'm taking the full stack course at elice Bootcamp (엘리스SW트랙 6기)
 
 ## portfolio
-🖌️ [clone coding, about 30pages](https://www.richdad6208.store)
+🖌️ [한국아동발달연구소 clone coding, about 30pages](https://www.richdad6208.store/portfolio2)
 
 ## Tech Stack
 ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
