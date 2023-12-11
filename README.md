@@ -55,7 +55,7 @@
 
 ## :memo: Portfolio
 
-<a href="#">개인 포트폴리오 사이트</a>
+<a href="https://aeolian-shoe-27d.notion.site/0584da5463d644eeaa3ddbb7f1d3c37d?pvs=4">개인 포트폴리오 사이트</a>
 
 <br />
 
