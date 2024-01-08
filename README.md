@@ -48,8 +48,7 @@
 </div>
 
 ## :memo: Blog
-
-[티스토리](https://yagoog.tistory.com/?page=4)  
+ 
 [벨로그](https://velog.io/@richdad6208)
 <br />
 
