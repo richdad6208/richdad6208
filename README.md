@@ -58,9 +58,9 @@
 
 <br />
 
-## :memo: 반응형 사이트 클론코딩 
+## :memo: 한국아동발달연구소 퍼블리싱(웹, 모바일 반응형)
 
-<a href="https://www.richdad6208.store/portfolio2/">한국아동발달연구소 클론코딩(웹, 모바일 반응형)</a>
+<a href="https://www.richdad6208.store/portfolio2/">한국아동발달연구소 퍼블리싱(웹, 모바일 반응형)</a>
 
 <br />
 
