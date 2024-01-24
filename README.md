@@ -58,12 +58,6 @@
 
 <br />
 
-## :memo: 한국아동발달연구소 퍼블리싱(웹, 모바일 반응형)
-
-<a href="https://www.richdad6208.store/portfolio2/">한국아동발달연구소 퍼블리싱(웹, 모바일 반응형)</a>
-
-<br />
-
 ## :link: Links
 
 <p align="center">
