@@ -58,12 +58,6 @@
 
 <br />
 
-## :link: Links
-
-<p align="center">
-<a href="mailto:richdad6208@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-</p>
-
 ## &#x1f4c8; GitHub Stats
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
