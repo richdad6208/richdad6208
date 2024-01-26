@@ -52,12 +52,6 @@
 [벨로그](https://velog.io/@richdad6208)
 <br />
 
-## :memo: Portfolio
-
-<a href="https://aeolian-shoe-27d.notion.site/0584da5463d644eeaa3ddbb7f1d3c37d?pvs=4">개인 포트폴리오 사이트</a>
-
-<br />
-
 ## &#x1f4c8; GitHub Stats
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
