@@ -120,11 +120,6 @@
   <img src="https://streak-stats.demolab.com?user=richdad6208&theme=tokyonight" />
 </p>
 
-# 🌱 Contribution Garden
-
- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> <a href="https://github.com/richdad6208/richdad6208"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=richdad6208&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="richdad6208's GitHub Stats" /> </a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richdad6208&layout=compact&count_private=true&theme=gruvbox" />
----
-
 # 🏆 GitHub Trophy
 
 <p align="center">
