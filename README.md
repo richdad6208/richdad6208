@@ -1,7 +1,7 @@
 <h1 align="center">안녕하세요 👋 박제성입니다</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=28&center=true&vCenter=true&width=700&lines=프론트엔드+중심+풀스택+개발자;SaaS+제품을+만드는+개발자;AI+자동화+서비스+빌더;실제+동작하는+제품을+만드는+엔지니어" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=28&center=true&vCenter=true&width=800&lines=프론트엔드+중심+풀스택+개발자;SaaS+제품을+만드는+개발자;AI+자동화+서비스+빌더;실제+동작하는+제품을+만드는+엔지니어" />
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 # 🚀 소개
 
-- 💻 프론트엔드 중심 풀스택 개발자
+- 💻 프론트엔드 중심의 풀스택 개발자
 - 🛠 SaaS 플랫폼 / 관리자 시스템 / 자동화 서비스 개발
-- 🌍 기획 → 설계 → 개발 → 배포 → 운영 경험
-- 🤖 AI 자동화 / 실시간 서비스 / 휴머노이드 로봇 관심
-- 🎯 실제 사용자에게 가치 있는 제품 개발 지향
+- 🌍 기획 → 설계 → 개발 → 배포 → 운영까지 제품 전체 경험
+- 🤖 AI 자동화 / 실시간 서비스 / 휴머노이드 로봇에 관심
+- 🎯 단순한 페이지가 아닌 실제 동작하는 제품 개발 지향
 
 ---
 
@@ -84,29 +84,29 @@
 
 ---
 
-# 🏗 대표 프로젝트
+# 🏗 대표 프로젝트 경험
 
 ## 📺 디지털 사이니지 SaaS
-- Konva 기반 WYSIWYG 에디터
-- 템플릿 기반 콘텐츠 편집
-- 스케줄 송출 시스템
+- Konva 기반 WYSIWYG 에디터 개발
+- 템플릿 기반 콘텐츠 편집 시스템
+- 스케줄 기반 콘텐츠 송출 시스템
 - 관리자 대시보드 구축
 
 ## 🤖 AI 자동화 플랫폼
-- AI 블로그 자동 발행
+- AI 블로그 자동 발행 플랫폼 설계
 - 예약 발행 시스템
-- 구독 / 포인트 / 결제 설계
-- 멀티 플랫폼 확장 구조
+- 구독 / 포인트 / 결제 시스템 설계
+- 멀티 플랫폼 확장 구조 설계
 
-## 💬 실시간 서비스
-- WebRTC 음성 통화
-- 실시간 채팅
+## 💬 실시간 커뮤니케이션 서비스
+- WebRTC 기반 음성 통화
+- 실시간 채팅 시스템
 - Agora 기반 구조 개선
 
 ## 🗺 플랫폼 서비스
-- Google Maps 기반 대형 플랫폼
-- 마커 최적화
-- 검색 / 필터 UX
+- Google Maps 기반 대형 플랫폼 구축
+- 마커 렌더링 최적화
+- 검색 / 필터 / 리스트 동기화 UX 구현
 
 ---
 
@@ -123,7 +123,7 @@
 # 🌱 Contribution Garden
 
 <p align="center">
-  <img src="https://contrib.rocks/image?repo=richdad6208/richdad6208" />
+  <img src="https://ghchart.rshah.org/58A6FF/richdad6208" alt="GitHub Contributions" />
 </p>
 
 <p align="center">
@@ -132,7 +132,7 @@
 
 ---
 
-# 🏆 Trophy
+# 🏆 GitHub Trophy
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=richdad6208&theme=tokyonight&row=1&column=6" />
