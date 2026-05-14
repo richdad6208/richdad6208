@@ -1,77 +1,130 @@
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Welcome
-<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /></h2>
+<h1 align="center">Hi there 👋 I'm Jaeseong Park</h1>
 
-<p align='center'>
- <b>✌Hello! I'm Front-end Developer🎉</b>
- <br>
-<img src="https://blog.kakaocdn.net/dn/Vc7dm/btrYjDlY9KT/GITlNuK465KIPH3GgB1KA0/img.png">
+<p align="center">
+  <b>Fullstack Product Engineer | SaaS Builder | Frontend Specialist</b>
 </p>
 
-## 🔥Technologies & Tools
+<p align="center">
+  Building products from idea → architecture → development → deployment 🚀
+</p>
 
-<div align = center>
- <h3>Front-end</h3> 
-</div>
-<div align = center>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/><br />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-</div>
+---
 
-<br />
+## 🚀 About Me
 
-<div align = center>
- <h3>Back-end</h3> 
-</div>
-<div align = center>
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
-<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</div>
+- 💻 Frontend-focused Fullstack Developer
+- 🛠 Building SaaS products, admin systems, automation tools
+- 🌍 Experienced in product architecture, CI/CD, deployment
+- 🤖 Interested in AI products, automation, humanoid robotics
+- 🎯 Passionate about creating scalable real-world services
 
-<br />
+---
 
-<div align = center>
- <h3>Collaboration</h3> 
-</div>
-<div align = center>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</div>
+## 🧠 Tech Stack
 
-## :memo: Blog
- 
-[벨로그](https://velog.io/@richdad6208)
-<br />
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
-## &#x1f4c8; GitHub Stats
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge"/>
+</p>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+### Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-<a href="https://github.com/richdad6208/richdad6208">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=richdad6208&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="richdad6208's GitHub Stats" />
-</a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richdad6208&layout=compact&count_private=true&theme=gruvbox" />
+### DevOps / Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab Runner-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+</p>
 
-<!--
-**MintaekCho/MintaekCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Realtime / Media
+<p>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agora-099DFD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
+### APIs / SDKs
+<p>
+  <img src="https://img.shields.io/badge/Google Maps API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Konva-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/i18n-FF6B6B?style=for-the-badge"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI / Automation
+<p>
+  <img src="https://img.shields.io/badge/OpenAI API-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude API-D97706?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+</p>
+
+---
+
+## 🏗 Featured Product Experience
+
+### 📺 Digital Signage SaaS
+- WYSIWYG canvas editor
+- Konva-based template builder
+- Schedule / content management
+- Multi-template publishing
+
+### 🤖 AI Automation Platform
+- AI blog automation
+- scheduled content publishing
+- payment / subscription architecture
+- multi-platform expansion architecture
+
+### 💬 Realtime Communication Products
+- WebRTC voice/chat systems
+- realtime interaction UX
+- Agora-based communication architecture
+
+### 🗺 Platform Services
+- Google Maps based service platform
+- advanced filtering
+- dynamic marker rendering
+- map-driven UX architecture
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=richdad6208&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richdad6208&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect
+
+- Blog: https://velog.io/@richdad6208
+
+---
+
+<p align="center">
+  <b>“I build products, not just pages.”</b>
+</p>
