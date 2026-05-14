@@ -16,11 +16,11 @@
 
 # 🚀 소개
 
-- 💻 프론트엔드 중심의 풀스택 개발자
+- 💻 프론트엔드 중심 풀스택 개발자
 - 🛠 SaaS 플랫폼 / 관리자 시스템 / 자동화 서비스 개발
-- 🌍 기획 → 설계 → 개발 → 배포 → 운영까지 전체 제품 개발 경험
-- 🤖 AI 자동화, 실시간 서비스, 휴머노이드 로봇 개발에 관심
-- 🎯 단순한 화면이 아니라 실제 동작하는 제품을 만드는 것이 목표
+- 🌍 기획 → 설계 → 개발 → 배포 → 운영 경험
+- 🤖 AI 자동화 / 실시간 서비스 / 휴머노이드 로봇 관심
+- 🎯 실제 사용자에게 가치 있는 제품 개발 지향
 
 ---
 
@@ -37,8 +37,6 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
----
-
 ## Backend
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -47,16 +45,12 @@
   <img src="https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge"/>
 </p>
 
----
-
 ## Database
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-
----
 
 ## DevOps / Infra
 <p align="center">
@@ -67,8 +61,6 @@
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 </p>
 
----
-
 ## Realtime / Media
 <p align="center">
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge"/>
@@ -76,16 +68,12 @@
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
 </p>
 
----
-
 ## APIs / SDKs
 <p align="center">
   <img src="https://img.shields.io/badge/Google Maps API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Konva Canvas-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/i18n-FF6B6B?style=for-the-badge"/>
 </p>
-
----
 
 ## AI / Automation
 <p align="center">
@@ -96,29 +84,29 @@
 
 ---
 
-# 🏗 대표 프로젝트 경험
+# 🏗 대표 프로젝트
 
 ## 📺 디지털 사이니지 SaaS
-- Konva 기반 WYSIWYG 에디터 개발
-- 템플릿 기반 콘텐츠 편집 시스템
-- 스케줄 기반 콘텐츠 송출 시스템
+- Konva 기반 WYSIWYG 에디터
+- 템플릿 기반 콘텐츠 편집
+- 스케줄 송출 시스템
 - 관리자 대시보드 구축
 
 ## 🤖 AI 자동화 플랫폼
-- AI 블로그 자동 발행 서비스 설계
+- AI 블로그 자동 발행
 - 예약 발행 시스템
-- 결제 / 구독 / 포인트 아키텍처 설계
-- 멀티 플랫폼 확장 구조 설계
+- 구독 / 포인트 / 결제 설계
+- 멀티 플랫폼 확장 구조
 
-## 💬 실시간 커뮤니케이션 서비스
-- WebRTC 기반 음성 통화
-- 실시간 채팅 시스템
+## 💬 실시간 서비스
+- WebRTC 음성 통화
+- 실시간 채팅
 - Agora 기반 구조 개선
 
 ## 🗺 플랫폼 서비스
 - Google Maps 기반 대형 플랫폼
-- 마커 렌더링 최적화
-- 검색 / 필터 / 리스트 동기화 UX
+- 마커 최적화
+- 검색 / 필터 UX
 
 ---
 
@@ -132,8 +120,10 @@
   <img src="https://streak-stats.demolab.com?user=richdad6208&theme=tokyonight" />
 </p>
 
+# 🌱 Contribution Garden
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richdad6208&theme=tokyo-night" />
+  <img src="https://contrib.rocks/image?repo=richdad6208/richdad6208" />
 </p>
 
 <p align="center">
@@ -142,7 +132,7 @@
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 Trophy
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=richdad6208&theme=tokyonight&row=1&column=6" />
@@ -155,12 +145,10 @@
 📘 Blog  
 https://velog.io/@richdad6208
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=richdad6208&label=Profile+Views&color=58A6FF&style=flat" />
 </p>
 
 <p align="center">
-  <b>"단순한 페이지가 아니라 실제 동작하는 제품을 만듭니다."</b>
+  <b>"단순한 화면이 아니라 실제 동작하는 제품을 만듭니다."</b>
 </p>
